@@ -23,4 +23,4 @@ Here are some ideas to get you started:
     <img src="https://github.com/sahayaantonyA/sahayaantonyA/blob/main/%5BArtistly%20Design%5D%200198f6a2-2df2-737e-8744-3b66d8315978.png" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### AI Developer | Python Enthusiast | Experienced in Automation, IoT/Embedded Systems, Server Management & Business Analysis
