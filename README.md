@@ -19,5 +19,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/sahayaantonyA/sahayaantonyA/blob/main/software-developer.png" />
 </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anto A!;" />
+</h1>
 
 ### AI Developer | Python Enthusiast | Experienced in Automation, IoT/Embedded Systems, Server Management & Business Analysis
