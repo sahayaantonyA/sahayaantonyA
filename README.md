@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahayaantonyA&label=Profile%20views&color=0e75b6&style=flat" alt="sahayaantonyA" />
+  <img src="https://github.com/sahayaantonyA/sahayaantonyA/blob/main/software-developer.png" />
 </p>
 
-<h1 align="center">
-    <img src="https://github.com/sahayaantonyA/sahayaantonyA/blob/main/%5BArtistly%20Design%5D%200198f6a2-2df2-737e-8744-3b66d8315978.png" />
-</h1>
 
 ### AI Developer | Python Enthusiast | Experienced in Automation, IoT/Embedded Systems, Server Management & Business Analysis
